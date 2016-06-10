@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="wsbridge">
+</Property><Property Name="Solution File" Value="C:\Users\HWUser08\Desktop\wsbridge\Win\wsbridge.sln">
+</Property><Property Name="User Options File" Value="C:\Users\HWUser08\Desktop\wsbridge\Win\wsbridge.suo">
+</Property><Property Name="Date" Value="Thursday, May 19, 2016">
+</Property><Property Name="Time" Value="12:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="wsbridge.sln" Description="File successfully backed up as C:\Users\HWUser08\Desktop\wsbridge\Win\Backup\wsbridge.sln">
+</Event><Event ErrorLevel="0" Project="" Source="wsbridge.suo" Description="File successfully backed up as C:\Users\HWUser08\Desktop\wsbridge\Win\Backup\wsbridge.suo">
+</Event><Event ErrorLevel="0" Project="wsbridge" Source="wsbridge\wsbridge.csproj" Description="Project file successfully backed up as C:\Users\HWUser08\Desktop\wsbridge\Win\Backup\wsbridge\wsbridge.csproj">
+</Event><Event ErrorLevel="0" Project="wsbridge" Source="wsbridge\wsbridge.csproj.user" Description="Project user file successfully backed up as C:\Users\HWUser08\Desktop\wsbridge\Win\Backup\wsbridge\wsbridge.csproj.user">
+</Event><Event ErrorLevel="0" Project="wsbridge" Source="wsbridge\Program.cs" Description="File successfully backed up as C:\Users\HWUser08\Desktop\wsbridge\Win\Backup\wsbridge\Program.cs">
+</Event><Event ErrorLevel="0" Project="wsbridge" Source="wsbridge\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\HWUser08\Desktop\wsbridge\Win\Backup\wsbridge\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="wsbridge" Source="wsbridge\wsbridge.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="wsbridge" Source="wsbridge\wsbridge.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="wsbridge.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="wsbridge.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="wsbridge" Source="wsbridge\wsbridge.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

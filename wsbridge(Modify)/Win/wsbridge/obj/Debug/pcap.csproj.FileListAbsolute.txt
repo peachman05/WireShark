@@ -1,0 +1,7 @@
+H:\Projects\Temp\wireshark\pcap\pcap\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\Temp\wireshark\pcap\pcap\bin\Debug\wsbridge.exe
+H:\Projects\Temp\wireshark\pcap\pcap\bin\Debug\wsbridge.pdb
+H:\Projects\Temp\wireshark\pcap\pcap\obj\Debug\wsbridge.exe
+H:\Projects\Temp\wireshark\pcap\pcap\obj\Debug\wsbridge.pdb
+H:\Projects\Arduino\wsbridge\Win\wsbridge\obj\Debug\wsbridge.exe
+H:\Projects\Arduino\wsbridge\Win\wsbridge\obj\Debug\wsbridge.pdb

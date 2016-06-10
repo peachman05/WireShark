@@ -1,0 +1,9 @@
+C:\Users\HWUser08\Desktop\wsbridge\Win\wsbridge\bin\Debug\wsbridge.exe
+C:\Users\HWUser08\Desktop\wsbridge\Win\wsbridge\bin\Debug\wsbridge.pdb
+C:\Users\HWUser08\Desktop\wsbridge\Win\wsbridge\obj\Debug\wsbridge.exe
+C:\Users\HWUser08\Desktop\wsbridge\Win\wsbridge\obj\Debug\wsbridge.pdb
+D:\Trainee2\WireShark\wsbridge\Win\wsbridge\obj\Debug\wsbridge.exe
+D:\Trainee2\WireShark\wsbridge\Win\wsbridge\obj\Debug\wsbridge.pdb
+D:\Trainee2\WireShark\wsbridge\Win\wsbridge\bin\Debug\wsbridge.exe
+D:\Trainee2\WireShark\wsbridge\Win\wsbridge\bin\Debug\wsbridge.pdb
+D:\Trainee2\WireShark\wsbridge\Win\wsbridge\obj\Debug\ResolveAssemblyReference.cache
